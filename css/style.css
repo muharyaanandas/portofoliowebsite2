@@ -297,6 +297,66 @@ section{
     width: 60%;
 }
 
+.about .row .box:nth-child(1) .progress:nth-child(12) .bar span{
+    width: 85%;
+}
+
+.about .row .box:nth-child(1) .progress:nth-child(13) .bar span{
+    width: 75%;
+}
+
+.about .row .box:nth-child(1) .progress:nth-child(14) .bar span{
+    width: 70%;
+}
+
+.about .row .box:nth-child(1) .progress:nth-child(15) .bar span{
+    width: 80%;
+}
+
+.about .row .box:nth-child(1) .progress:nth-child(16) .bar span{
+    width: 76%;
+}
+
+.about .row .box:nth-child(1) .progress:nth-child(17) .bar span{
+    width: 90%;
+}
+
+.about .row .box:nth-child(1) .progress:nth-child(18) .bar span{
+    width: 90%;
+}
+
+.about .row .box:nth-child(1) .progress:nth-child(19) .bar span{
+    width: 73%;
+}
+
+.about .row .box:nth-child(1) .progress:nth-child(20) .bar span{
+    width: 77%;
+}
+
+.about .row .box:nth-child(1) .progress:nth-child(21) .bar span{
+    width: 75%;
+}
+
+.about .row .box:nth-child(1) .progress:nth-child(22) .bar span{
+    width: 70%;
+}
+
+.about .row .box:nth-child(1) .progress:nth-child(23) .bar span{
+    width: 73%;
+}
+
+.about .row .box:nth-child(1) .progress:nth-child(24) .bar span{
+    width: 65%;
+}
+
+.about .row .box:nth-child(1) .progress:nth-child(25) .bar span{
+    width: 66%;
+}
+
+.about .row .box:nth-child(1) .progress:nth-child(26) .bar span{
+    width: 69%;
+}
+
 .about .row .box:nth-child(2) .progress:nth-child(2) .bar span{
     width: 98%;
 }
@@ -335,6 +395,74 @@ section{
 
 .about .row .box:nth-child(2) .progress:nth-child(11) .bar span{
     width: 90%;
+}
+
+.about .row .box:nth-child(2) .progress:nth-child(12) .bar span{
+    width: 80%;
+}
+
+.about .row .box:nth-child(2) .progress:nth-child(13) .bar span{
+    width: 80%;
+}
+
+.about .row .box:nth-child(2) .progress:nth-child(14) .bar span{
+    width: 88%;
+}
+
+.about .row .box:nth-child(2) .progress:nth-child(15) .bar span{
+    width: 83%;
+}
+
+.about .row .box:nth-child(2) .progress:nth-child(16) .bar span{
+    width: 86%;
+}
+
+.about .row .box:nth-child(2) .progress:nth-child(17) .bar span{
+    width: 78%;
+}
+
+.about .row .box:nth-child(2) .progress:nth-child(18) .bar span{
+    width: 75%;
+}
+
+.about .row .box:nth-child(2) .progress:nth-child(19) .bar span{
+    width: 77%;
+}
+
+.about .row .box:nth-child(2) .progress:nth-child(20) .bar span{
+    width: 83%;
+}
+
+.about .row .box:nth-child(2) .progress:nth-child(21) .bar span{
+    width: 80%;
+}
+
+.about .row .box:nth-child(2) .progress:nth-child(22) .bar span{
+    width: 85%;
+}
+
+.about .row .box:nth-child(2) .progress:nth-child(23) .bar span{
+    width: 76%;
+}
+
+.about .row .box:nth-child(2) .progress:nth-child(24) .bar span{
+    width: 78%;
+}
+
+.about .row .box:nth-child(2) .progress:nth-child(25) .bar span{
+    width: 75%;
+}
+
+.about .row .box:nth-child(2) .progress:nth-child(26) .bar span{
+    width: 86%;
+}
+
+.about .row .box:nth-child(2) .progress:nth-child(27) .bar span{
+    width: 88%;
+}
+
+.about .row .box:nth-child(2) .progress:nth-child(28) .bar span{
+    width: 80%;
 }
 
 .about .row .box .exp-box{
